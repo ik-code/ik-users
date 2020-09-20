@@ -1,0 +1,23 @@
+{
+  "name": "ik-code/ik-users",
+  "description": "",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/ik-code/ik-users",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Ihor Khaletskyi",
+      "email": "ihor.khaletskyi@gmail.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.2",
+    "composer/installers": "^1.0"
+  }
+}

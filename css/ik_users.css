@@ -1,0 +1,47 @@
+/*
+*Backend Styles
+*/
+
+.postbox .inside {
+    display: table;
+}
+
+.postbox .ik-users > li {
+    float: left;
+    margin: 5px;
+    text-align: center;
+    height: 290px;
+    width: 120px;
+    overflow: hidden;
+}
+.postbox .ik-users li li {
+    margin: 2px 0;
+    padding: 0;
+}
+
+.postbox .ik-users img {
+    float: left;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.include-ul{
+    margin: 0 0 0 20px;
+}
+.postbox.user-details{
+    padding: 20px;
+}
+.postbox h2.heading-user-details{
+    padding: 15px 0!important;
+    text-transform: uppercase;
+}
+
+.postbox ul li,
+.postbox ul li .box-li{
+    display: block;
+    margin-bottom: 5px;
+}
+.json-feed-box pre{
+    height: 350px;
+    overflow: auto;
+}
